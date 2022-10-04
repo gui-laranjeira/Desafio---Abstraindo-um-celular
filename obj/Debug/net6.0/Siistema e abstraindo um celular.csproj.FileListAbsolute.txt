@@ -1,0 +1,15 @@
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\bin\Debug\net6.0\Siistema e abstraindo um celular.exe
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\bin\Debug\net6.0\Siistema e abstraindo um celular.deps.json
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\bin\Debug\net6.0\Siistema e abstraindo um celular.runtimeconfig.json
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\bin\Debug\net6.0\Siistema e abstraindo um celular.dll
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\bin\Debug\net6.0\Siistema e abstraindo um celular.pdb
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.csproj.AssemblyReference.cache
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.AssemblyInfoInputs.cache
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.AssemblyInfo.cs
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.csproj.CoreCompileInputs.cache
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.dll
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\refint\Siistema e abstraindo um celular.dll
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.pdb
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\Siistema e abstraindo um celular.genruntimeconfig.cache
+C:\workspace\.net Development\Anotações\Siistema e abstraindo um celular\obj\Debug\net6.0\ref\Siistema e abstraindo um celular.dll
